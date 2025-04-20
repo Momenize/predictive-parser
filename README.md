@@ -18,7 +18,6 @@ Using left factoring, we create another non-terminal (I called it R, you can cal
 A => aR
 R => A | B
 B => bB | c
-
 ```
 <br/>
 
